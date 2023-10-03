@@ -1660,6 +1660,10 @@ ul.icon_hu li {
     padding-bottom: 20px;
 }
 
+.address {
+    margin-top: 30px;
+}
+
 .footer .address h3 {
     color: #fff;
     font-size: 30px;
@@ -1773,7 +1777,7 @@ ul.social_link li a:hover {
 .copyright {
     padding: 23px 0px;
 
-    margin-top: 55px;
+    margin-top: 30px;
     border-top: #ddd solid 1px;
 
 }
